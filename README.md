@@ -67,12 +67,6 @@ obvious category to fit into on the matrix.org website.
 
 Some bots are quick scripts tailored to a specific purpose.
 
-- [matrix-soundboard](https://github.com/Linuxifyy/matrix-soundboard) - Self-hosted
-  web soundboard that plays audio directly into Element Call (Matrix RTC) voice/video
-  calls via LiveKit. Multi-user control, live sync via SSE, file upload, and
-  password-protected sounds. ([Repo](https://github.com/Linuxifyy/matrix-soundboard))
-  `MIT` `JavaScript`
-
 ## Bridges
 
 ## Clients
