@@ -21,6 +21,7 @@ obvious category to fit into on the matrix.org website.
 - [Comments](#comments)
 - [Encryption](#encryption)
 - [Factoids](#factoids)
+- [Moderation](#moderation)
 - [Research](#research)
 - [SDKs](#sdks)
 - [Servers](#servers)
