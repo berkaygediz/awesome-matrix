@@ -142,6 +142,12 @@ For a comprehensive list with many more clients along with screenshots, the
   various limits and related factoids about the Matrix specification and
   implementations.
 
+## Moderation
+
+- [LocalModeration for Matrix](https://github.com/berkaygediz/LocalModerationMatrix) -
+  A CLI tool for bulk message deletion, media cleanup, and sticker purge in public Matrix rooms.
+  ([PyPI](https://pypi.org/project/localmoderationmatrix/)) `Apache-2.0` `Python`
+
 ## Research
 
 Research papers and similar documents studying something related to Matrix.
