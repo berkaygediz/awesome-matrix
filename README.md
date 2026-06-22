@@ -21,6 +21,7 @@ obvious category to fit into on the matrix.org website.
 - [Comments](#comments)
 - [Encryption](#encryption)
 - [Factoids](#factoids)
+- [Moderation](#moderation)
 - [Research](#research)
 - [SDKs](#sdks)
 - [Servers](#servers)
@@ -141,6 +142,12 @@ For a comprehensive list with many more clients along with screenshots, the
 - [Matrix Limits](https://github.com/jryans/matrix-limits) - A collection of
   various limits and related factoids about the Matrix specification and
   implementations.
+
+## Moderation
+
+- [LocalModeration for Matrix](https://github.com/berkaygediz/LocalModerationMatrix) -
+  A CLI tool for bulk message deletion, media cleanup, and sticker purge in public Matrix rooms.
+  ([PyPI](https://pypi.org/project/localmoderationmatrix/)) `Apache-2.0` `Python`
 
 ## Research
 
